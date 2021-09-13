@@ -3,4 +3,4 @@ Primeiro repositório
 
 Olá Humanos!
 
-Essa é a minha primeira experiencia como GitHub.
+Essa é a minha primeiraexperiencia com o GitHub.
